@@ -1,0 +1,8 @@
+.container{
+  padding-left: 130px;
+  padding-right: 130px;
+}
+
+.tan-gradient{
+  background: linear-gradient(0deg, rgba(255, 255, 255, 0) -142.95%, #F3F2FF -142.95%, rgba(247, 246, 255, 0) -142.91%, #F3F3F3 285.26%);
+}
